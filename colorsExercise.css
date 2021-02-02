@@ -1,0 +1,26 @@
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: rgb(255, 102, 0);
+}
+
+h3 {
+  color: rgba(255, 238, 0, 0.925);  
+}
+
+h4 {
+    color: #22aa55;
+}
+h5 {
+    color: #4169e1;
+}
+
+h6 {
+    color: indigo;
+}
+
+p {
+    color: violet;
+}
